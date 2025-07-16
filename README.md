@@ -1,2 +1,0 @@
-# Mohabbot-Ali
-index.html
